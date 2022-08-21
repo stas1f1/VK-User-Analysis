@@ -16,7 +16,7 @@ a group of biggest and most active VK news and political pages:
 Plus, we collected data about comments and respective user profiles (3M+ active accounts total)
 which accounted to 14+ GB of parquet data stored on cluster.
 
-For each person, we defined a series of criteria based on profile and 
+Using Spark, we defined a series of criteria based on profile and 
 activity data, and most interestingly - comments sentiment analysis, 
 performed with [Dostoevsky](https://github.com/bureaucratic-labs/dostoevsky) - a library for analysis of russian text (which I adore for its speed, accuracy and ease of use)
 
@@ -31,3 +31,5 @@ With the gathered info we used a percentile score which gave us the final verdic
   <img src="https://github.com/stas1f1/VK-User-Analysis/blob/main/total-groups.png" width="500" title="hover text">
   <p align="center">Spam distribution among groups
 </p>
+
+Made with Python as a course project for 1st year of masters, FDT ITMO
