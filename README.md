@@ -21,3 +21,13 @@ activity data, and most interestingly - comments sentiment analysis,
 performed with [Dostoevsky](https://github.com/bureaucratic-labs/dostoevsky) - a library for analysis of russian text which I highly adore for its speed and ease of use.
 
 With the gathered info we used a percentile score which gave us the final verdict.
+
+
+<p align="center">
+  <img src="https://github.com/stas1f1/VK-User-Analysis/blob/main/User%20profiles.png" width="500" title="hover text">
+</p>
+
+<p align="center">
+  <img src="https://github.com/stas1f1/VK-User-Analysis/blob/main/total-groups.png" width="500" title="hover text">
+  <p align="center">Spam distribution among groups
+</p>
