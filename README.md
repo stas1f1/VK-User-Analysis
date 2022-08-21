@@ -18,6 +18,6 @@ which accounted to 14+ GB of parquet data stored on cluster.
 
 For each person, we defined a series of criteria based on profile and 
 activity data, and most interestingly - comments sentiment analysis, 
-performed with [Dostoevsky]https://github.com/bureaucratic-labs/dostoevsky - a library for analysis of russian text which I highly adore for its speed and ease of use.
+performed with [Dostoevsky](https://github.com/bureaucratic-labs/dostoevsky) - a library for analysis of russian text which I highly adore for its speed and ease of use.
 
 With the gathered info we used a percentile score which gave us the final verdict.
