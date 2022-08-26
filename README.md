@@ -36,7 +36,7 @@ Below is the rating of groups based on spam comment ratio
   <img src="https://github.com/stas1f1/VK-User-Analysis/blob/main/spamrates.png" width="800" title="hover text">
 </p>
 
-Want to take a deep dive into the pool of chaos? Here are the top-5 post that caused the most toxic, hateful and controversial discussions between people, trolls and bots:
+Want to take a deep dive into the pool of chaos? Here are the top-5 posts that caused the most toxic, hateful and controversial discussions between people, trolls and bots:
 
 ---
 
