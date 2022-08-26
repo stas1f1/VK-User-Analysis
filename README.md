@@ -48,7 +48,7 @@ Want to take a deep dive into the pool of chaos? Here are the top-5 posts that c
 
 **[№2: "1 Канал", topic: Religious insults](https://vk.com/public25380626?w=wall-25380626_79652)**
 
-This post is somewhat of an outlier, as it dates back to 2012 and a bigger amount of accs are deleted
+This post is somewhat of an outlier, as it dates back to 2012 and a bigger amount of accounts are deleted
 
 
 
