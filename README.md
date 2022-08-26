@@ -17,7 +17,7 @@ Plus, we collected data about comments and respective user profiles (1,5M+ accou
 which accounted to 14+ GB of parquet data stored on cluster.
 
 <p align="center">
-  <img src="https://github.com/stas1f1/VK-User-Analysis/blob/main/acctypes.png" width="500" title="hover text">
+  <img src="https://github.com/stas1f1/VK-User-Analysis/blob/main/acctypes.png" width="700" title="hover text">
 </p>
 
 Using Spark, we devised a series of criteria based on profile and 
@@ -27,48 +27,50 @@ performed with [Dostoevsky](https://github.com/bureaucratic-labs/dostoevsky) - a
 Chosen groups come in varying degrees of negativity in audience
 
 <p align="center">
-  <img src="https://github.com/stas1f1/VK-User-Analysis/blob/main/pos_neg.png" width="500" title="hover text">
+  <img src="https://github.com/stas1f1/VK-User-Analysis/blob/main/pos_neg.png" width="700" title="hover text">
 </p>
 
 Below is the rating of groups based on spam comment ratio
 
 <p align="center">
-  <img src="https://github.com/stas1f1/VK-User-Analysis/blob/main/spamrates.png" width="500" title="hover text">
+  <img src="https://github.com/stas1f1/VK-User-Analysis/blob/main/spamrates.png" width="700" title="hover text">
 </p>
 
 Want to take a deep dive into the pool of chaos? Here are the top-5 post that caused the most toxic, hateful and controversial discussions between people, trolls and bots:
 
-**№1: "Плохие Новости", topic: Scandalous behavior in social media**
+---
 
-https://vk.com/public150709625?w=wall-150709625_8236914
+**[№1: "Плохие Новости", topic: Scandalous behavior in social media](https://vk.com/public150709625?w=wall-150709625_8236914)**
 
 
 
-**№2: "1 Канал", topic: Religious insults**
+
+
+**[№2: "1 Канал", topic: Religious insults](https://vk.com/public25380626?w=wall-25380626_79652)**
 
 This post is somewhat of an outlier, as it dates back to 2012 and a bigger amount of accs are deleted
 
-https://vk.com/public25380626?w=wall-25380626_79652
 
 
 
-**№3: "РИА", topic: Event involving injury and reward of a police officer**
 
-https://vk.com/public15755094?w=wall-15755094_33153186
-
-
-
-**№4: "Плохие Новости", topic: Questional race-based statements**
-
-https://vk.com/public150709625?w=wall-150709625_9340121
+**[№3: "РИА", topic: Event involving injury and awarding of a police officer](https://vk.com/public15755094?w=wall-15755094_33153186)**
 
 
 
-**№5: "Дождь\*", topic: Alexei Navalny's return to Russia**
+
+
+**[№4: "Плохие Новости", topic: Questional race-based statements](https://vk.com/public150709625?w=wall-150709625_9340121)**
+
+
+
+
+
+**[№5: "Дождь\*", topic: Alexei Navalny's return to Russia](https://vk.com/public17568841?w=wall-17568841_6400781)**
 
 *banned in Russia, only accessible with VPN
 
-https://vk.com/public17568841?w=wall-17568841_6400781
+
 
 
 ---
