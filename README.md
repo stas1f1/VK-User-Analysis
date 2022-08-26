@@ -1,6 +1,6 @@
 # VK User Analysis
 
-VK public pages have become quite a political battleground recently.
+VK public news pages have become quite a political and cultural battleground recently.
 People will always engage in a heated discussion in the comments,
 especially when their point of view is not shared by others. The 
 question posed is - are they ***real*** people?
