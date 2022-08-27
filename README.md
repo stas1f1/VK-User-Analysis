@@ -66,7 +66,7 @@ This post is somewhat of an outlier, as it dates back to 2012 and a bigger amoun
 
 
 
-**[№5: "Дождь\*", topic: Alexei Navalny's return to Russia](https://vk.com/public17568841?w=wall-17568841_6400781)**
+**[№5: "Дождь"\*, topic: Alexei Navalny's return to Russia](https://vk.com/public17568841?w=wall-17568841_6400781)**
 
 *banned in Russia, only accessible with VPN
 
