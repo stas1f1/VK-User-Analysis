@@ -14,7 +14,7 @@ a group of biggest and most active VK news (general and political) pages:
 >1 канал, Лентач, РБК, Роскомсвобода, Дождь, Вести, Топор, Медуза, РенТВ, Плохие Новости, Life, РИА, Mash
 
 Plus, we collected data about comments and respective user profiles (1,5M+ accounts total)
-which accounted to 14+ GB of parquet data stored on cluster.
+which accounted to 15+ GB of parquet data stored on cluster via HDFS.
 
 <p align="center">
   <img src="https://github.com/stas1f1/VK-User-Analysis/blob/main/acctypes.png" width="800" title="hover text">
